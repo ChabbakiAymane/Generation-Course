@@ -11,8 +11,10 @@ Repository di corso che contiene:
 - **CISCO NETWORKING ACADEMY**: https://www.netacad.com/launch?id=de7db817-14e9-4a07-b6fb-82392b2697b5&tab=learning
 
 ## Materiale/Programmi:
-- vedere la cartella [MATERIALE]
+- VMware Workstation Pro
+- Ubuntu ISO
 
 ## Appunti:
-- vedere la cartella [APPUNTI]
+- LINUX: cartella che contiene sceen/appunti sul modulo LINUX
+- TODO
 
