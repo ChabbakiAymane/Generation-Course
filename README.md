@@ -14,8 +14,9 @@ Repository di corso che contiene:
 - ***CALENDARIO LEZIONI***: https://generation.instructure.com/calendar#view_name=month&view_start=2024-10-14
 - ***CISCO NETWORKING ACADEMY***: https://www.netacad.com/launch?id=de7db817-14e9-4a07-b6fb-82392b2697b5&tab=learning
 ---
-## MATERIALE GENERICO:
+## MATERIALE:
 - Ubuntu ISO: https://www.ubuntu-it.org/download
+  
 Nella cartella **MATERIALE** trovate:
 - VMware Workstation Pro
 - (altro...)
