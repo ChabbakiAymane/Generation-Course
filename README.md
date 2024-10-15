@@ -17,11 +17,11 @@ Repository di corso che contiene:
 ## Materiale/Programmi:
 - Ubuntu ISO: https://www.ubuntu-it.org/download
 
-Nella cartella MATERIALE trovate:
+Nella cartella **MATERIALE** trovate:
 - VMware Workstation Pro
 - TODO
 ---
 ## Appunti:
-- LINUX: cartella che contiene sceen/appunti sul modulo LINUX
+- LINUX: cartella che contiene sceenshots/appunti sul modulo LINUX
 - TODO
 
