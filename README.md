@@ -1,8 +1,9 @@
 # Junior System and CyberSecurity Analyst [Generation Italy] - SCAITA37
 Repository di corso che contiene:
 - *LINK UTILI*: tutti i link utili per seguire al meglio il corso
-- *MATERIALE/PROGRAMMI*: materiale e/o programmi dati/usati durante il corso
-- *APPUNTI*: appunti presi in aula o screenshots delle presentazioni
+- *MATERIALE*: materiale e/o programmi dati/usati durante la durata del corso
+- *APPUNTI*: appunti teorici pratici presi in aula o screenshots delle presentazioni
+- *SOFT SKILLs*: materiale/appunti presi durante le lezioni di Soft Skills
 ---
 ---
 ## LINK ZOOM:
@@ -25,5 +26,5 @@ Nella cartella **MATERIALE** trovate:
 - LINUX: cartella che contiene appunti/screen sul modulo LINUX
 - CCNA1: cartella che contiene appunti/screen sul modulo CCNA1 (TODO)
 ---
-## SOFT SKILL:
+## SOFT SKILLs:
 - Cartella che contiene materiale fornito durante le lezioni di Soft Skills (TODO)
