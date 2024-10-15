@@ -11,8 +11,11 @@ Repository di corso che contiene:
 - **CISCO NETWORKING ACADEMY**: https://www.netacad.com/launch?id=de7db817-14e9-4a07-b6fb-82392b2697b5&tab=learning
 
 ## Materiale/Programmi:
+- Ubuntu ISO: https://www.ubuntu-it.org/download
+  
+Nella cartella MATERIALE trovate:
 - VMware Workstation Pro
-- Ubuntu ISO
+- TODO
 
 ## Appunti:
 - LINUX: cartella che contiene sceen/appunti sul modulo LINUX
