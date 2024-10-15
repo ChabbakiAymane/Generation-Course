@@ -23,8 +23,8 @@ Nella cartella **MATERIALE** trovate:
 - (altro...)
 ---
 ## APPUNTI:
-- LINUX: cartella che contiene appunti/screen sul modulo LINUX
-- CCNA1: cartella che contiene appunti/screen sul modulo CCNA1 (TODO)
+- **LINUX**: cartella che contiene appunti/screen sul modulo LINUX
+- **CCNA 1**: cartella che contiene appunti/screen sul modulo CCNA1 (TODO)
 ---
 ## SOFT SKILLs:
 - Cartella che contiene materiale fornito durante le lezioni di Soft Skills (TODO)
