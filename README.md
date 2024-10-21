@@ -17,10 +17,10 @@ Repository di corso che contiene:
 ---
 ## MATERIALE:
 - [Ubuntu ISO](https://www.ubuntu-it.org/download)
+- [Packet Tracert](https://www.netacad.com/resources/lab-downloads?courseLang=en-US)
   
 Nella cartella **MATERIALE** trovate:
 - VMware Workstation Pro
-- (altro...)
 ---
 ## APPUNTI:
 - **LINUX**: cartella che contiene appunti/screen sul modulo LINUX
