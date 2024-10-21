@@ -13,7 +13,7 @@ Repository di corso che contiene:
 ## LINK UTILI:
 - [***CANVA***](https://generation.instructure.com/)
 - [***CALENDARIO LEZIONI***](https://generation.instructure.com/calendar#view_name=month&view_start=2024-10-14)
-- [***CISCO NETWORKING ACADEMY***](https://www.netacad.com/launch?id=de7db817-14e9-4a07-b6fb-82392b2697b5&tab=learning)
+- [***CISCO NETWORKING ACADEMY***](https://www.netacad.com/launch?id=fd9281cd-2243-49f2-85c8-c822a289e8a5)
 ---
 ## MATERIALE:
 - [Ubuntu ISO](https://www.ubuntu-it.org/download)
