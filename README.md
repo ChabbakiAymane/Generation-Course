@@ -21,6 +21,7 @@ Repository di corso che contiene:
   
 Nella cartella **MATERIALE** trovate:
 - VMware Workstation Pro
+- Packet Tracert
 ---
 ## APPUNTI:
 - **LINUX**: cartella che contiene appunti/screen sul modulo LINUX
