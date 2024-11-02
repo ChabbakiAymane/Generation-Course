@@ -12,7 +12,7 @@ Repository di corso che contiene:
 ---
 ## LINK UTILI:
 - [***CANVA***](https://generation.instructure.com/)
-- [***CALENDARIO LEZIONI***](https://generation.instructure.com/calendar#view_name=month&view_start=2024-10-14)
+- [***CALENDARIO LEZIONI***](https://generation.instructure.com/calendar#view_name=month&view_start=2024-11-02)
 - [***CISCO NETWORKING ACADEMY***](https://www.netacad.com/dashboard)
 ---
 ## MATERIALE:
