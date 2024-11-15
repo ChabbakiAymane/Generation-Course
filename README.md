@@ -26,6 +26,7 @@ Nella cartella **MATERIALE** trovate:
 - **LINUX**: cartella che contiene appunti/screen sul modulo LINUX
 - **CCNA 1**: cartella che contiene appunti/screen sul modulo CCNA 1
 - **CCNA 2**: cartella che contiene appunti/screen sul modulo CCNA 2
+- **CCNA 3**: cartella che contiene appunti/screen sul modulo CCNA 3
 ---
 ## SOFT SKILLs:
 - Cartella che contiene materiale fornito durante le lezioni di Soft Skills (TODO)
