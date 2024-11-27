@@ -26,4 +26,5 @@ Nella cartella **MATERIALE** trovate:
 - **CCNA 1**: cartella che contiene appunti/screen sul modulo CCNA 1
 - **CCNA 2**: cartella che contiene appunti/screen sul modulo CCNA 2
 - **CCNA 3**: cartella che contiene appunti/screen sul modulo CCNA 3
+- **CYBER-OPS**: cartella che contiene appunti/screen sul modulo CYBER-OPS CISCO
 ---
