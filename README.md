@@ -13,6 +13,7 @@ Repository di corso che contiene:
 - [***CANVA***](https://generation.instructure.com/)
 - [***CALENDARIO LEZIONI***](https://generation.instructure.com/calendar#view_name=month&view_start=2024-11-02)
 - [***CISCO NETWORKING ACADEMY***](https://www.netacad.com/dashboard)
+- [***DRIVE PYTHON***](https://drive.google.com/drive/folders/1XjlBzesb_ak7z4gK7yQoThVeHAzyghcV)
 ---
 ## MATERIALE:
 - [Ubuntu ISO](https://www.ubuntu-it.org/download)
